@@ -1,0 +1,8 @@
+A Continuacion 20:00
+
+MIN 07:00 Nos explica sobre los import que siempre va con .js y de poner en package.json "type": "module",
+
+MIN 17:00: Aqui nos explica las cuentas de pruebas para porder crear usuarios ficticios
+
+
+

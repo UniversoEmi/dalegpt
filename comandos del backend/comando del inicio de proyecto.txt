@@ -1,0 +1,17 @@
+npm init -y : esto nos crea el package.json
+
+npm i express morgan dotenv : EXPRESS es un framewore de node.js para que podamos crear un servidor web. MORGAN nos va a servir para poder ver la peticiones que van llegando por consola. DOTENV nos va a servir para poder leer variables de entorno
+
+MIN 08:25- npm install nodemon -D
+
+
+
+
+
+
+
+
+
+
+
+hola chatgpt, re recuerdo nuevamente quiero me ayudes a crear una pagina fullstack, en el backend voy a usar node.js, exprees, morgan, mongoDB y dotenv, la pagina que quiero hacer es crear un login de mercado pago con un monto de (12.000 pesos ARGENTINOS)que solo 204 personas puedan registrarse, una ves halln pagado ese monto los redireccione automaticamente a mi pagina, donde cada usuario tenga su propio perfil y que en su perfil puedan solamente subir una imagen y que tengan la opcion de poner una descripvion la imagen, su nombre y apellido, y cada usuario registrado pueda poner solo 3 me gusta, y que se puedan poner me gusta entre ellos los me gusta,
